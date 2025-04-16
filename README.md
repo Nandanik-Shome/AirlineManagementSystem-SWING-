@@ -15,7 +15,3 @@ Ticket Cancellation: Cancel a flight ticket if needed.
 
 Boarding Pass Generation: Generate boarding passes for customers after booking.
 
-Prerequisites
-Java Development Kit (JDK): Ensure that JDK 8 or later is installed.
-
-IDE: Any Java IDE (Eclipse, IntelliJ IDEA, NetBeans, etc.) or a text editor (VS Code, etc.)
