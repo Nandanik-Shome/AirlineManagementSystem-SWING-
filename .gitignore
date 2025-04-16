@@ -1,0 +1,27 @@
+# Ignore compiled Java class files
+/bin/
+/*.class
+
+# Ignore .vscode folder for VS Code settings
+/.vscode/
+
+# Ignore libraries (you already have the jars in the lib folder, no need to commit them)
+/lib/*.jar
+
+# Ignore any temporary or build files
+*.log
+*.tmp
+*.swp
+
+# Ignore IDE-specific settings or system files
+*.iml
+*.idea/
+*.project
+*.classpath
+
+# Ignore OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Ignore your compiled .jar files if they are generated
+*.jar
