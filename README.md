@@ -3,6 +3,7 @@ The Airline Management System is a Java-based desktop application built using Sw
 This application is designed to simplify the process of managing an airline's daily operations.
 
 Features
+
 Flight Management: View and update flight details.
 
 Customer Management: Add customer details to the system.
